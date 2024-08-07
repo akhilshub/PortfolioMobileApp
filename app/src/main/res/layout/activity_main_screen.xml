@@ -164,13 +164,4 @@
         app:layout_constraintStart_toStartOf="@+id/describe"
         app:layout_constraintTop_toBottomOf="@+id/describe" />
 
-    <TextView
-        android:id="@+id/day"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="90dp"
-        android:text="TextView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/cardView"
-        app:layout_constraintTop_toBottomOf="@+id/git" />
 </androidx.constraintlayout.widget.ConstraintLayout>
